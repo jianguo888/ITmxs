@@ -1,5 +1,5 @@
 如果你迷惘，不妨看看码农的轨迹
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITmxs)](https://github.com/ITmxs/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITmxs&show_icons=true&theme=radical)](https://github.com/ITmxs/github-readme-stats)
 
 
 我会在 [CSDN](https://blog.csdn.net/qq_39132095?spm=1001.2101.3001.5343)  中分享一些 小知识点、开发经验、性能优化、原理分析，这些是源自于实战项目的感悟。
