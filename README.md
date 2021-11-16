@@ -8,10 +8,9 @@
 
  |专心   |专注 |专致 | 极致 | 所以也要有微信公众号中的每日分享 微信中搜  “明天也要加油呀” ,你会在每日晨起的时刻收到一份干货，你也可以随时随地阅读你喜欢观注的研发领域
 
-公众号：“明天也要加油呀”
+公众号：“坚果前端”
 
-![999999999999999](https://luckly007.oss-cn-beijing.aliyuncs.com/img/999999999999999.png)
-51CTO：[https://blog.51cto.com/jianguo](https://blog.51cto.com/jianguo)
+![img](https://luckly007.oss-cn-beijing.aliyuncs.com/images3B1E633F742DA026057B26D3BA8FEB15.jpg)
 
 哔哩哔哩：[https://space.bilibili.com/480883651](https://space.bilibili.com/480883651)
 
