@@ -1,4 +1,7 @@
-如果你迷惘，不妨看看码农的轨迹
+如果你迷惘，不妨看看码农的轨迹，
+
+华为云享专家，InfoQ签约作者，阿里云博客专家，2021年csdn博客之星，51CTO博客首席体验官，[开源项目gin-vue-admin成员之一](https://www.gin-vue-admin.com/)，专注于大前端技术的分享，包括Flutter,小程序,鸿蒙，安卓，VUE，JavaScript
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITmxs&show_icons=true&theme=radical)](https://github.com/ITmxs/github-readme-stats)
 
 
@@ -8,9 +11,9 @@
 
  |专心   |专注 |专致 | 极致 | 所以也要有微信公众号中的每日分享 微信中搜  “坚果前端” ,你会在每日晨起的时刻收到一份干货，你也可以随时随地阅读你喜欢观注的研发领域
 
-公众号：“坚果前端”
+公众号：“大前端之旅”
 
-![img](https://luckly007.oss-cn-beijing.aliyuncs.com/images3B1E633F742DA026057B26D3BA8FEB15.jpg)
+![](https://luckly007.oss-cn-beijing.aliyuncs.com/image/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
 哔哩哔哩：[https://space.bilibili.com/480883651](https://space.bilibili.com/480883651)
 
@@ -150,5 +153,5 @@ Gitee：[https://gitee.com/itmxs](https://gitee.com/itmxs)
 
 
 
-![image-20211216111141950](https://luckly007.oss-cn-beijing.aliyuncs.com/image/image-20211216111141950.png)
+![公众号二维码](https://luckly007.oss-cn-beijing.aliyuncs.com/image/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
