@@ -113,29 +113,63 @@ Gitee：[https://gitee.com/itmxs](https://gitee.com/itmxs)
 
 [Flutter 2.8 的新特性【flutter专题17】](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247488869&idx=1&sn=c26542e69976daba2ec0a0bcf356e2a3&chksm=faf03602cd87bf14dd0270356e52706a30803b08b041c2513825f885148b82df4b60026e045b&scene=21#wechat_redirect)
 
+[如何在Flutter应用程序中创建不同的渐变[Flutter专题20]](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247489051&idx=1&sn=6c2fbad34e7eddb378608f397efdee68&chksm=faf0357ccd87bc6a41418683d4a935e0fcd604bf9587bcc49b65231a32b2b0bbc1fad994c642&scene=21#wechat_redirect)
+
+[Flutter 中使用Chip 小部件【Flutter专题30】](http://mp.weixin.qq.com/s?__biz=MzkzNTMxNjI5OQ==&mid=2247489371&idx=1&sn=409b42e9c42f84e5e4758248c141f268&chksm=c2ae897ff5d90069a1d8775bb6fa85d00d591e6a6421b52431597e0603a9bf8f8d4077d4e237&scene=21#wechat_redirect)
+
+[在 Flutter 中发出 HTTP 请求的最佳库（2022 年）【Flutter专题31】](http://mp.weixin.qq.com/s?__biz=MzkzNTMxNjI5OQ==&mid=2247489372&idx=1&sn=317f34244f87274bce89f931dd03d8c8&chksm=c2ae8978f5d9006e78e73e4f3d47d2f20eea15e606d5b698e5a0c4197a66a8867909039a716e&scene=21#wechat_redirect)
+
+[2022年Flutter真的会一统大前端吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTMxNjI5OQ==&mid=2247489158&idx=1&sn=bc146da0582ac1ee7f861fdce9298936&chksm=c2ae88a2f5d901b4192844c5525321d5553af9b5939c4e5705a3f4e5373eec872e50cb326516&scene=21#wechat_redirect)
+
 ## vscode主题
 
 [分享一个vscode主题收录网站，有了这个网站不用再求别人啦](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247486089&idx=1&sn=85acf9d8fd45b9233b708019227bd302&chksm=faf029eecd87a0f8ac71e979d398bab19b3d73849ca9a1098e50b432f575d7cc19cabaaf1975&scene=21#wechat_redirect)
 
 ## 鸿蒙专题
 
-[鸿蒙开发初体验【鸿蒙专题0】](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247488816&idx=1&sn=ca5905e01eddbcaeb8ef836c5bb8deb3&chksm=faf03657cd87bf41e18a8c2ae3a7e1539ac029f684bda82a2d6f7e0cc482764d459a000959f8&scene=21#wechat_redirect)
+鸿蒙专题
 
-[鸿蒙  ListContainer基础用法教程【鸿蒙专题1】](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247488828&idx=1&sn=c129cbd0741b6d3f7781202ed335ac28&chksm=faf0365bcd87bf4d7c5e35cfe9745eee0a8c7b61af097afe1839ad9404fac3f57075e3e10907&scene=21#wechat_redirect)
+[鸿蒙开发初体验【鸿蒙专题00】](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247488816&idx=1&sn=ca5905e01eddbcaeb8ef836c5bb8deb3&chksm=faf03657cd87bf41e18a8c2ae3a7e1539ac029f684bda82a2d6f7e0cc482764d459a000959f8&scene=21#wechat_redirect)
 
-[鸿蒙 网络请求的各种实现方式(原生+okhttp+okhttputils+zzrhttp)【鸿蒙 专题2】](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247488817&idx=1&sn=b2d743e12c3996bafebd08bbcb9686b5&chksm=faf03656cd87bf405a14a579557e329a2ef5023815f87c41d210dcaf48baf9bbe51180597b49&scene=21#wechat_redirect)
+[鸿蒙开发初体验【鸿蒙专题01】](http://mp.weixin.qq.com/s?__biz=MzkzNTMxNjI5OQ==&mid=2247489395&idx=1&sn=9981891f52cd37897ce6d0e4a17d55f6&chksm=c2ae8957f5d900413a7ea6b4a1cb4f920efb39ac7fbbad43e8730d89b8158ee268f86c3539cf&scene=21#wechat_redirect)
 
-[鸿蒙 dialog各种用法教程【鸿蒙专题3】](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247488869&idx=2&sn=9904d2775a9d5402a8f1bdf5422520e7&chksm=faf03602cd87bf14aa9147c749249a3b847262394b05e6847e5d212a9c6de6c5407d3e8095cf&scene=21#wechat_redirect)
+[HarmonyOS工程【鸿蒙专题02】](http://mp.weixin.qq.com/s?__biz=MzkzNTMxNjI5OQ==&mid=2247489405&idx=1&sn=d760e39a27a6a652b5baf05e7e7e30b5&chksm=c2ae8959f5d9004f56e2582e6ea8d9834c4e975a9ce45da3b6e5c3f286582b6d3daaa1b5b2d5&scene=21#wechat_redirect)
 
-[鸿蒙 模仿boss直聘客户端更新教程【鸿蒙专题4】](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247489008&idx=1&sn=81af23846dd641453f4c2923b1d98657&chksm=faf03697cd87bf81eb7d1144353eb10abc9642c8e275b96ba6a2cc79df07866b8a0967e0bfaa&scene=21#wechat_redirect)
+[HUAWEI DevEco Studio使用技巧【鸿蒙专题03】](http://mp.weixin.qq.com/s?__biz=MzkzNTMxNjI5OQ==&mid=2247489418&idx=1&sn=f1fa1ef6ecd128ac1558fa502c5229bc&chksm=c2ae89aef5d900b8c0e431727d6deb4c30955b5fee7f6b59c67b23742972b98ce660421b37b1&scene=21#wechat_redirect)
 
+[鸿蒙  ListContainer基础用法教程【鸿蒙专题04】](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247488828&idx=1&sn=c129cbd0741b6d3f7781202ed335ac28&chksm=faf0365bcd87bf4d7c5e35cfe9745eee0a8c7b61af097afe1839ad9404fac3f57075e3e10907&scene=21#wechat_redirect)
 
+[鸿蒙 网络请求的各种实现方式(原生+okhttp+okhttputils+zzrhttp)【鸿蒙 专题05】](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247488817&idx=1&sn=b2d743e12c3996bafebd08bbcb9686b5&chksm=faf03656cd87bf405a14a579557e329a2ef5023815f87c41d210dcaf48baf9bbe51180597b49&scene=21#wechat_redirect)
+
+[鸿蒙 dialog各种用法教程【鸿蒙专题06】](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247488869&idx=2&sn=9904d2775a9d5402a8f1bdf5422520e7&chksm=faf03602cd87bf14aa9147c749249a3b847262394b05e6847e5d212a9c6de6c5407d3e8095cf&scene=21#wechat_redirect)
+
+[鸿蒙 模仿boss直聘客户端更新教程【鸿蒙专题07】](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247489008&idx=1&sn=81af23846dd641453f4c2923b1d98657&chksm=faf03697cd87bf81eb7d1144353eb10abc9642c8e275b96ba6a2cc79df07866b8a0967e0bfaa&scene=21#wechat_redirect)
+
+[鸿蒙 HiLog日志打印使用技巧【鸿蒙专题08】](http://mp.weixin.qq.com/s?__biz=MzkzNTMxNjI5OQ==&mid=2247489408&idx=1&sn=69eb348b288beae78a79d9bb48272114&chksm=c2ae89a4f5d900b2886d8a1af06f67bd45dd34d6556775aa980542b5232dc011b5d4447354e8&scene=21#wechat_redirect)
+
+[鸿蒙  简易计算器实现案例教程【鸿蒙专题09】](http://mp.weixin.qq.com/s?__biz=MzkzNTMxNjI5OQ==&mid=2247489161&idx=1&sn=0b126fe998d52bd4dfb72b9fa0453367&chksm=c2ae88adf5d901bb6d840d712effee52ec74bd49c11b06c255ebb16848ea477cd4afc8005113&scene=21#wechat_redirect)http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247489008&idx=1&sn=81af23846dd641453f4c2923b1d98657&chksm=faf03697cd87bf81eb7d1144353eb10abc9642c8e275b96ba6a2cc79df07866b8a0967e0bfaa&scene=21#wechat_redirect)
+
+## uniapp
+
+[uni-app基础教程 环境配置【uniapp 专题 01】](http://mp.weixin.qq.com/s?__biz=MzkzNTMxNjI5OQ==&mid=2247489304&idx=1&sn=bbe1944c844cb5bfae8158d6448a180b&chksm=c2ae893cf5d9002a26eb05322ca496bac0f52bdb39e1eaa7eba723c76e2d657873129516c360&scene=21#wechat_redirect)
+
+[个人实操之发布uniapp（包括原生app，H5,小程序）【uniapp 专题 02】](http://mp.weixin.qq.com/s?__biz=MzkzNTMxNjI5OQ==&mid=2247489363&idx=1&sn=cd39199f2c590a293fdb7c383fa50b1f&chksm=c2ae8977f5d90061686bdf9eb972df990607d016d12103c109e6b977211a915fa3c69a38845a&scene=21#wechat_redirect)
+
+[uniapp的生命周期【uniapp 专题 03】](http://mp.weixin.qq.com/s?__biz=MzkzNTMxNjI5OQ==&mid=2247489370&idx=1&sn=d85526e3f01043f8a7d13eb5b21dfeb3&chksm=c2ae897ef5d900683dc4b60f68d8d008554dfa40e713e663f7bf95b2d2a12a8b9fff20b0a8e5&scene=21#wechat_redirect)
 
 ## 其他
+
+[如何做一个app](http://mp.weixin.qq.com/s?__biz=MzkzNTMxNjI5OQ==&mid=2247489406&idx=1&sn=fa69b74b9d7bfe5f082f1fb915fa2766&chksm=c2ae895af5d9004c882aee62b23e97abf4ef15f41eee6c2b46506d877d3ea30c88bb6519b865&scene=21#wechat_redirect)
+
+[代码审计开源工具](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247488741&idx=1&sn=f10940589e6aae1cf90722025d2c4b7e&chksm=faf03782cd87be9424c212001a01ff2fb804030ba06d35596103084a1a66f69aaa5a08a94ffc&scene=21#wechat_redirect)
 
 [史上最强画图工具推荐（十个），你想要的我都有](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247487262&idx=1&sn=12cb3b6b051906190814580d6a3928be&chksm=faf02c79cd87a56fd5bce31a8a7057401ab94926771b6776424617796837a7ff76f282de7b9a&scene=21#wechat_redirect)
 
 [23条建议，给你的程序人生加油助力](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247486211&idx=1&sn=a2b843fa353058c72db1a914d2f241d3&chksm=faf02864cd87a172064b862c14acbfb5f79850a69cbbe9d29a9c97d5e41863ef4b0df94f814c&scene=21#wechat_redirect)
+
+[程序员为什么写博客，这是我见过最好的答案](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247486488&idx=1&sn=e978c468a2dfbd08d1a1be1107148fdd&chksm=faf02f7fcd87a669420607bde6bf6ffed1266d7fe1e59c5a1e2d63a28a1a65f951d3f04419d9&scene=21#wechat_redirect)
+
+[如何设置微信公众号的页面模板？](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247488954&idx=1&sn=3edecb67fc226ab0e563713ce0fcad7c&chksm=faf036ddcd87bfcbeea843114ca0ebc67a7fd0a2232642b5becd3b4973b5b408b7b9e016f1fc&scene=21#wechat_redirect)http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247486211&idx=1&sn=a2b843fa353058c72db1a914d2f241d3&chksm=faf02864cd87a172064b862c14acbfb5f79850a69cbbe9d29a9c97d5e41863ef4b0df94f814c&scene=21#wechat_redirect)
 
 ## Figma
 
@@ -154,4 +188,60 @@ Gitee：[https://gitee.com/itmxs](https://gitee.com/itmxs)
 
 
 ![公众号二维码](https://luckly007.oss-cn-beijing.aliyuncs.com/image/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+
+# 软件设计师资料
+
+
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/ZYCndGlkIv359hGFiaD6Xtbkotro4GicE1cvGSmUMLoI9eoQeLSacslNdl4VUwepwo5GMkxw28SLibOH0CltCgjzA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+## Flutter 
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/5qkQdsicTu1my6tudicZoEj6JyQrsbLT7J8s73mry3U1Vt6suj6jmFXuv9MKtK5oJ23DGNDAic9sQhUPm1nibricF8g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+## Git
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/5qkQdsicTu1my6tudicZoEj6JyQrsbLT7JjX40xLVUyBmHb6Mjiagkiay3UsVTS1IwyAw7X4lxjQLOKDWibQdKs7v3A/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+## PPT模板
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/5qkQdsicTu1my6tudicZoEj6JyQrsbLT7JXq35YtyibicavDXGaFEREmxyXKzxlTLtwNgBDiaqJShgK8mBOHSPl4sOA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+## 画图利器
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/5qkQdsicTu1my6tudicZoEj6JyQrsbLT7JibC8nTaDRcQq7838Ty02LmDcPh9RB27nba4XmjzSlJwtSwEeXnHtz9A/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+## 软考资料
+
+地址:软件设计师资料
+
+https://gitee.com/itmxs/software-designer-test-paper
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/5qkQdsicTu1my6tudicZoEj6JyQrsbLT7JdjTYaibHiaUGBLJYD9w9KILagwjsYq4cEwZnhCBzfibmSKFzufnEuNXUA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+## python
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/5qkQdsicTu1my6tudicZoEj6JyQrsbLT7JQLKgzdgWZOw2iazMcDEktI7JKiaoWk2icB25nT1icGAQ5BicPmaCFbQzWbw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+## GO
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/5qkQdsicTu1my6tudicZoEj6JyQrsbLT7JgjLxBMDT5ia4gmSGCxaVnGxibU1rG8U9oXAe0wZldBXUxiba5c9Xu7vhQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+## Java
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/5qkQdsicTu1my6tudicZoEj6JyQrsbLT7JNUsa7OWXgRvfQ9ToRibmSqtK1pQns9iccTtWkx2oOaEtZEejCP7j8AwQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+当然，如果你关注了我，或者加我微信了，就会发现上面只是冰山一角，
+
+
+
+最后附上下载链接，或者，公众号回复`资料`
+
+就可以领取。
+
+加好友或者入群请备注“加群”
+
+
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/5qkQdsicTu1my6tudicZoEj6JyQrsbLT7JaMtFKiawccKdNqcfIiaxaxhBslVewT1xWCWiacicABuCbtOicxDS0zvHS5Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
